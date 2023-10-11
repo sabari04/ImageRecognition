@@ -17,7 +17,7 @@ The AI Image Recognition and Captioning Platform is a project aimed at developin
 
 ## Getting Started
 
-## DRIVE LINK- https://docs.google.com/document/d/1iVOpgmHz5gq5fKbcMNzdKlTZnf-ug1at/edit?usp=drivesdk&ouid=101400368310218832399&rtpof=true&sd=true
+## DRIVE LINK- https://drive.google.com/drive/folders/1CNrpo9JwWFEKOX14GPZcd94ikbSIXDR0?usp=sharing
 
 ### Prerequisites
 
